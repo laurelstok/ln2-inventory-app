@@ -2,7 +2,7 @@ import React from "react";
 import InventoryItem from "./InventoryItem";
 
 function InventoryList() {
-  const items = ["LN2 Tank", "Protective Gloves", "Label Tape"]; // Example
+  const items = ["LN2 Tank", "Protective Gloves", "Label Tape", "Sanity"]; // Example
 
   return (
     <ul>
